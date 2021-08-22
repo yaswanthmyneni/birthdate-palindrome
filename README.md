@@ -1,4 +1,4 @@
-# Birthday Palindrome
+# Birthdate Palindrome
 This is a web application that takes a person's birthday as input and gives output whether the birthday is a palindrome or not.
 
 ## Build with:
